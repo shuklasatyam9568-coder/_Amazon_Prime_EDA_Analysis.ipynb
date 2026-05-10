@@ -1,7 +1,6 @@
 # _Amazon_Prime_EDA_Analysis.ipynb
 🎬 Movie & TV Shows Data Analysis
-A comprehensive Exploratory Data Analysis (EDA) project focused on analyzing movies and TV shows using IMDb and TMDb datasets. This project uncovers insights related to audience ratings, genre trends, release patterns, runtime distribution, popularity metrics, and cast information.
-Using Python and powerful data analysis libraries, the project explores over 9,800 titles and 124,000+ credits records to identify content trends and viewer preferences across the entertainment industry.
+🔍 End-to-end EDA on 9,800+ movies & TV shows — applying data cleaning, multi-dataset merging & feature engineering across IMDb & TMDb data to extract 12 business-driven insights on ratings, genres, runtime, cast popularity & global production trends using Python, Pandas, Matplotlib & Seaborn.
 
 🔍 Key Highlights:
 Analysis of Movies vs TV Shows distribution
